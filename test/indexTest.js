@@ -54,3 +54,5 @@ describe('index.js', () => {
     });
   });
 });
+
+"HIGH" + "FIVE"
